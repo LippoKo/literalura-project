@@ -1,2 +1,4 @@
-package br.com.alura.literalura.model.principal;public class Principal {
+package br.com.alura.literalura.principal;
+
+public class Principal {
 }
